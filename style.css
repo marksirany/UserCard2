@@ -1,0 +1,10 @@
+#message {
+  width: inherit;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 4px 4px 4px grey;
+  /* change the position properties here */
+  position: fixed; 
+  bottom: 80px;
+}
